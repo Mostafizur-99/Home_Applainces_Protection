@@ -1,4 +1,4 @@
-# Voltage Protector Device (ESP32)
+# Home Appliances Protector(ESP32)
 
 A microcontroller-based protector that disconnects an appliance when the grid
 voltage goes too high or too low, or when the load current is too high.
