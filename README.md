@@ -17,13 +17,4 @@ emulated with two potentiometers (no mains voltage is used anywhere).
 Open the ready-made simulation: **[Wokwi project link](https://wokwi.com/projects/477396749541625857)**
 and press the green **▶ Play** button.
 
-### Option B: build it yourself (about 2 minutes)
 
-1. Go to https://wokwi.com, click **New Project** and choose **ESP32**.
-2. Open the **sketch.ino** tab, delete everything, and paste the code from
-   `src/voltage_protector/voltage_protector.ino`.
-3. Open the **diagram.json** tab, delete everything, and paste the content of
-   `project_files/wokwi/diagram.json`. All parts and wires appear automatically.
-4. Open the **Library Manager** tab, click **+** and add **LiquidCrystal I2C**
-   (or create a file `libraries.txt` with the content of `project_files/wokwi/libraries.txt`).
-5. Press the green **▶ Play** button. The Serial Monitor opens at the bottom.
