@@ -15,6 +15,7 @@ emulated with two potentiometers (no mains voltage is used anywhere).
 ### Option A: one click
 
 Open the ready-made simulation: **[Wokwi project link](https://wokwi.com/projects/477396749541625857)**
-and press the green **▶ Play** button.
+and 
+.
 
 
